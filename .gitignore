@@ -1,3 +1,5 @@
 ## Ignore File ##
 
 .ipynb_checkpoints
+__pycache__/
+*.py[cod]
